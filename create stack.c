@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"include/create stack.h"
 linkstack create()   // 建立栈
 {
