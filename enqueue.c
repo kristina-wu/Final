@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"include/enquene.h"
 int EnQueue(sequeue_t *queue, data_t x)  //入队
 {  
