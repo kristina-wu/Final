@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"include/dequeue.h"
 int DeQueue(sequeue_t *queue, data_t *x)  // 出队
 {  
